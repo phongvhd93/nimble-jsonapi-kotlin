@@ -56,7 +56,7 @@ android {
     namespace = "co.nimblehq.jsonapi"
     compileSdk = 32
     defaultConfig {
-        minSdk = 23
+        minSdk = 21
         targetSdk = 32
     }
 }
